@@ -1,10 +1,9 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include data-driven decision making in health care.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MS in Data Science
+    institution: University of Colorado
     year: In progress
   - course: MS in Special Education
     institution: University of Kentucky
