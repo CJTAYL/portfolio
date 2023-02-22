@@ -11,7 +11,7 @@ education:
   - course: BA in Psychology
     institution: University of Kentucky
     year: 2008
-email: ""
+email: "CJTAYL2@gmail.com"
 first_name: Chris
 highlight_name: true
 interests:
@@ -22,12 +22,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
