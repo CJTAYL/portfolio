@@ -84,7 +84,7 @@ sections:
     title: Experience
   design:
     columns: "2"
-- block: accomplishments
+- block: courses
   content:
     date_format: Jan 2006
     items:
@@ -113,7 +113,7 @@ sections:
       title: Object-Oriented Programming in R
       url: ""
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Accomplishments
   design:
     columns: "2"
 - block: collection
