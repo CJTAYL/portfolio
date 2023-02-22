@@ -43,7 +43,7 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
+    - description:
       icon: r-project
       icon_pack: fab
       name: R
