@@ -5,25 +5,20 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    year: In progress
+  - course: MS in Special Education
+    institution: University of Kentucky
+    year: 2015
+  - course: BA in Psychology
+    institution: University of Kentucky
     year: 2008
 email: ""
-first_name: Alice
+first_name: Chris
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- Regression
+- Evidence-based practices
+last_name: Taylor
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,8 +44,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Chris Taylor
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chris Taylor is a former behavioral consultant and single-case researcher and a current graduate student in data science.
 {style="text-align: justify;"}
