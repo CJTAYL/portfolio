@@ -52,7 +52,7 @@ sections:
       icon_pack: fas
       name: Statistics
     - description: 10%
-      icon: camera-retro
+      icon: python
       icon_pack: fas
       name: Photography
     title: Skills
