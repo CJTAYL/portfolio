@@ -1,5 +1,5 @@
 ---
-bio: My research interests include data-driven decision making in health care.
+bio: My research interests include predictive modeling and data-driven decision making in health care.
 education:
   courses:
   - course: MS in Data Science
@@ -22,17 +22,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/CJTAYL/.github.io
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 title: Chris Taylor
 ---
 
-Chris Taylor is a former behavioral consultant and single-case researcher and a current graduate student in data science.
+Chris Taylor is a former behavioral consultant and single-case researcher, seeking an internship related to data science.
 {style="text-align: justify;"}
